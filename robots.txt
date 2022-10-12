@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: https://gitprojkts.github.io/ghibah/sitemap.xml
